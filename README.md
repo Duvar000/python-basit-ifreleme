@@ -1,4 +1,4 @@
-# python-basit-sifreleme
+# python Substitution Cipher(yerine koyma) algoritması
 <hr>
 <h3>Kodları</h3>
  
